@@ -1,8 +1,8 @@
 file_format: "1"
 id: corne
-name: Corne
+name: corney
 type: shield
-url: https://github.com/foostan/crkbd/
+url: https://github.com/Luiderd/zmk06
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
@@ -11,5 +11,5 @@ features:
   - underglow
   - studio
 siblings:
-  - corne_left
-  - corne_right
+  - corney_left
+  - corney_right
